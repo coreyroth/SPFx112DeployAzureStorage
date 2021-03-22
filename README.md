@@ -2,9 +2,8 @@
 
 ## Summary
 
-Short summary on functionality and used technologies.
-
-[picture of the solution in action, if possible]
+Simple web part to show gulp deploy-azure-storage not deploying any files.
+[sp-dev-docs issue #6847](https://github.com/SharePoint/sp-dev-docs/issues/6847)
 
 ## Used SharePoint Framework Version
 
